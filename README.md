@@ -5,7 +5,8 @@
 (^それは今のところすべてです。)
 
 
-![lv_0_20230502155510](https://user-images.githubusercontent.com/132329107/235599767-5fc29656-2203-4624-bbce-660c28c13303.gif)
+![lv_0_20230502155737](https://user-images.githubusercontent.com/132329107/235600181-e5ae33c3-7f74-4ad2-b49e-995ae58cd901.gif)
+
 
 
 
