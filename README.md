@@ -5,7 +5,8 @@
 (^それは今のところすべてです。)
 
 
-![lv_0_20230502154925](https://user-images.githubusercontent.com/132329107/235598805-643b6856-3474-42d8-8ef6-428d2306814f.gif)
+![lv_0_20230502155510](https://user-images.githubusercontent.com/132329107/235599767-5fc29656-2203-4624-bbce-660c28c13303.gif)
+
 
 
 嫌いな食べ物： きのこ >:o
