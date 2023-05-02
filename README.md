@@ -2,4 +2,8 @@
 <p align="center" alt="" width="">
     <img alt="" src="assets/standard.gif">
 
-(^それは今のところすべてです。)^
+(^それは今のところすべてです。)
+
+(\^O^/) 
+
+嫌いな食べ物： きのこ >:o
